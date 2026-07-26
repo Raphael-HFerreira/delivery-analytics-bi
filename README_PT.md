@@ -122,8 +122,10 @@ Para análise detalhada do projeto, incluindo:
 
 Tem dúvidas sobre o projeto ou quer discutir arquitetura de BI?
 
-**LinkedIn:** [Seu Link LinkedIn]  
-**Email:** [Seu Email]
+**LinkedIn:** [https://www.linkedin.com/in/raphaelf-rhf/]
+**Email:** [raphael.henriferreira@gmail.com]
+
+
 
 ---
 
@@ -133,5 +135,5 @@ Este projeto é compartilhado apenas para fins de portfólio. Dados foram saniti
 
 ---
 
-**Desenvolvido por:** Rapha Dantas  
+**Desenvolvido por:** Raphael Ferreira  
 **Última atualização:** Julho 2026
