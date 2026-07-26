@@ -198,6 +198,6 @@ Para **Senior Analyst** roles:
 
 ---
 
-**Desenvolvido por:** Rapha Dantas  
+**Desenvolvido por:** Raphael Ferreira  
 **Data:** Julho 2026  
 **Status:** Em produção, utilizado por CEOs para decisões estratégicas
