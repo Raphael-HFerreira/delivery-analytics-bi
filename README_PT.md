@@ -1,6 +1,6 @@
 # Dashboard de Business Intelligence: Plataforma de Delivery
 
-![Overview](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/01-overview.png?raw=true)
+![Overview](https://github.com/Raphael-HFerreira/delivery-analytics-bi/blob/main/Screenshots/01-overview.jpg)
 
 ## 📊 Sobre este Projeto
 
@@ -27,19 +27,19 @@ Dashboard estratégico desenvolvido e liderado para uma **grande plataforma de d
 
 ### 1️⃣ **Panorama Geral**
 KPIs executivos em tempo real, evolução temporal de assinaturas vs churn, composição de receita por categoria.
-![Panorama](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/01-overview.png?raw=true)
+![Panorama](https://github.com/Raphael-HFerreira/delivery-analytics-bi/blob/main/Screenshots/01-overview.jpg)
 
 ### 2️⃣ **Faturamento**
 Análise econômica: ARR, ticket médio por categoria, série de faturamento bruto, assinaturas líquidas, distribuição geográfica.
-![Faturamento](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/02-revenue.png?raw=true)
+![Faturamento](https://github.com/Raphael-HFerreira/delivery-analytics-bi/blob/main/Screenshots/02-revenue.jpg)
 
 ### 3️⃣ **Churn**
 Retenção: MRRLost (série temporal), número de cancelamentos, tempo de vida antes do churn, motivos estruturados.
-![Churn](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/03-churn.png?raw=true)
+![Churn](https://github.com/Raphael-HFerreira/delivery-analytics-bi/blob/main/Screenshots/03-churn.jpg)
 
 ### 4️⃣ **Perfil do Cliente**
 Segmentação: faturamento total, volume de vendas, ticket por categoria, NPS, distribuição por cidade.
-![Perfil](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/04-profile.png?raw=true)
+![Perfil](https://github.com/Raphael-HFerreira/delivery-analytics-bi/blob/main/Screenshots/04-profile.jpg)
 
 ---
 
@@ -99,7 +99,7 @@ Para análise detalhada do projeto, incluindo:
 - Impacto mensurado
 - Habilidades demonstradas
 
-**[Leia o Case Study Completo](./CASE_STUDY.md)**
+**[Leia o Case Study Completo](./CASE_STUDY_PT.md)**
 
 ---
 
