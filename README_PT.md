@@ -123,6 +123,7 @@ Para análise detalhada do projeto, incluindo:
 Tem dúvidas sobre o projeto ou quer discutir arquitetura de BI?
 
 **LinkedIn:** [https://www.linkedin.com/in/raphaelf-rhf/]
+
 **Email:** [raphael.henriferreira@gmail.com]
 
 
