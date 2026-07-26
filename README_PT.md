@@ -99,7 +99,7 @@ Para análise detalhada do projeto, incluindo:
 - Impacto mensurado
 - Habilidades demonstradas
 
-**[Leia o Case Study Completo](./CASE_STUDY_PT.md)**
+**[Leia o Case Study_PT Completo](./CASE_STUDY.md)**
 
 ---
 
