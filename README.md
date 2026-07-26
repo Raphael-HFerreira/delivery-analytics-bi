@@ -1,6 +1,6 @@
 # Business Intelligence Dashboard: Delivery Platform
 
-![Overview](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/01-overview.png?raw=true)
+![Overview](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/01-overview.jpg?raw=true)
 
 ## 📊 About This Project
 
@@ -27,19 +27,19 @@ Strategic dashboard developed and led for a **major delivery platform** (direct 
 
 ### 1️⃣ **Overview**
 Real-time executive KPIs, temporal evolution of subscriptions vs churn, revenue composition by category.
-![Overview](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/01-overview.png?raw=true)
+![Overview](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/01-overview.jpg?raw=true)
 
 ### 2️⃣ **Revenue**
 Economic analysis: ARR, average ticket by category, gross revenue trends, net new subscriptions, geographic distribution.
-![Revenue](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/02-revenue.png?raw=true)
+![Revenue](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/02-revenue.jpg?raw=true)
 
 ### 3️⃣ **Churn**
 Retention analysis: MRRLost (time series), cancellation count, customer lifetime before churn, structured churn reasons.
-![Churn](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/03-churn.png?raw=true)
+![Churn](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/03-churn.jpg?raw=true)
 
 ### 4️⃣ **Customer Profile**
 Segmentation: total customer revenue, sales volume, ticket by category, NPS, city distribution.
-![Profile](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/04-profile.png?raw=true)
+![Profile](https://github.com/SEUUSERNAME/delivery-analytics-bi/blob/main/screenshots/04-profile.jpg?raw=true)
 
 ---
 
