@@ -99,7 +99,7 @@ For detailed project analysis, including:
 - Measured impact
 - Demonstrated skills
 
-**[Read the Complete Case Study](./CASE_STUDY_EN.md)**
+**[Read the Complete Case Study](./CASE_STUDY.md)**
 
 ---
 
@@ -122,8 +122,8 @@ For detailed project analysis, including:
 
 Have questions about the project or want to discuss BI architecture?
 
-**LinkedIn:** [Your LinkedIn Link]  
-**Email:** [Your Email]
+**LinkedIn:** [https://www.linkedin.com/in/raphaelf-rhf/]  
+**Email:** [raphael.henriferreira@gmail.com]
 
 ---
 
@@ -133,5 +133,5 @@ This project is shared for portfolio purposes only. Data has been sanitized for 
 
 ---
 
-**Developed by:** Rapha Dantas  
+**Developed by:** Raphael Ferreira 
 **Last updated:** July 2026
